@@ -1,2 +1,2 @@
 # AnimalShelter
-Exercice of design pattern implementation: Abstract factory. Also some Unitary tests NUnity.
+Exercice of design pattern implementation: Abstract factory. Also some Unitary tests NUnit.
